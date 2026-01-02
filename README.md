@@ -1,68 +1,92 @@
 # Hi, I'm Tahir Mulani 👋
 
-## Profile Overview
-
-I am a passionate software developer with a strong foundation in web development and database management. I enjoy building efficient, user-friendly applications and solving complex problems through code. My expertise spans across multiple technologies, and I'm always eager to learn and adapt to new challenges in the tech world.
-
-## Skills
-
-### Programming Languages
-- C#
-- JavaScript
-- Java
-
-### Web Technologies
-- HTML5
-- CSS3
-- ASP.NET
-
-### Databases
-- SQL Server
-- MySQL
-
-### Tools & Frameworks
-- Visual Studio
-- Git
-- VS Code
-
-## Recent Projects
-
-### Civil Registry System (Final Year Project)
-A comprehensive web-based application for managing civil registry records, built using ASP.NET framework.
-
-**Technologies Used:**
-- **Backend:** C#, ASP.NET
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQL Server
-
-**Features:**
-- User registration and authentication
-- Record management (birth, marriage, death certificates)
-- Search and reporting functionality
-- Admin dashboard for system management
-
-**Project Highlights:**
-- Implemented secure data handling and validation
-- Created responsive user interface
-- Integrated SQL database for efficient data storage and retrieval
-- Developed modular architecture for maintainability
-
-## Education
-
-- **Bachelor's Degree in Computer Science/Engineering**
-  - Graduated with focus on software development and system design
-
-## Professional Interests
-
-- Full-stack web development
-- Database design and optimization
-- Software architecture
-- Open-source contributions
-
-## Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology. Feel free to reach out!
+🚀 **Passionate Software Developer | Web & Database Enthusiast**
 
 ---
 
-*This README serves as my professional profile and resume summary. For detailed work samples and more information, please check out my repositories.* 
+## 👨‍💻 Profile Overview
+
+I am a passionate software developer with a strong foundation in **web development** and **database management**. I enjoy building **efficient, user-friendly applications** and solving **complex problems through clean, structured code**. My skill set spans multiple technologies, and I am always eager to **learn, adapt, and grow** in the evolving tech landscape.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+
+* C
+* Core Java
+* C# *(Basic)*
+
+### 🌐 Web Technologies
+
+* HTML5
+* CSS3
+* ASP.NET *(Basic)*
+
+### 🗄️ Databases
+
+* MySQL *(Basic)*
+
+### ⚙️ Tools & Frameworks
+
+* Visual Studio
+* Git
+* VS Code
+
+---
+
+## 📌 Recent Projects
+
+### 🏛️ Civil Registry System *(Final Year Project)*
+
+A comprehensive **web-based application** designed to manage civil registry records efficiently using the **ASP.NET framework**.
+
+#### 🔧 Technologies Used
+
+* **Backend:** C#, ASP.NET
+* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Database:** SQL Server
+
+#### ✨ Key Features
+
+* User registration and authentication
+* Record management *(Birth, Marriage, Death certificates)*
+* Advanced search and reporting functionality
+* Admin dashboard for complete system control
+
+#### 🌟 Project Highlights
+
+* Implemented **secure data handling** and validation mechanisms
+* Designed a **responsive and user-friendly interface**
+* Integrated **SQL database** for reliable data storage and retrieval
+* Followed a **modular architecture** for better scalability and maintainability
+
+---
+
+## 🎓 Education
+
+* **Master of Computer Applications (MCA)** *(Pursuing)*
+  **Bharati Vidyapeeth (Deemed to be University)**
+
+* **Bachelor's Degree in Computer Science**
+  *Focused on software development*
+
+---
+
+## 🎯 Professional Interests
+
+* Full-stack web development
+* Database design and optimization
+* Software architecture
+* Open-source contributions
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to **new opportunities**, **collaborations**, or meaningful discussions about technology. Feel free to reach out and connect!
+
+---
+
+⭐ *This README represents my professional profile and resume summary. For detailed projects and code samples, please explore my repositories.*
