@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Profile Overview
 
-I am a passionate software developer with a basic knowledge in **web development** and **database management**. I enjoy building **efficient, user-friendly applications** and solving **complex problems through clean, structured code**. My skill set spans multiple technologies, and I am always eager to **learn, adapt, and grow** in the evolving tech landscape.
+A motivated **fresher software developer** with basic knowledge of **web development and database management**. Passionate about building efficient, user-friendly applications and eager to **learn new technologies** while growing as a **skilled professional** in the software industry.
 
 ---
 
