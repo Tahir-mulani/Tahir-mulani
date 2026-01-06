@@ -1,12 +1,12 @@
 # Hi, I'm Tahir Mulani 👋
 
-🚀 **Passionate Software Developer | Web & Database Enthusiast**
+🚀 **Passionate Software Developer **
 
 ---
 
 ## 👨‍💻 Profile Overview
 
-I am a passionate software developer with a strong foundation in **web development** and **database management**. I enjoy building **efficient, user-friendly applications** and solving **complex problems through clean, structured code**. My skill set spans multiple technologies, and I am always eager to **learn, adapt, and grow** in the evolving tech landscape.
+I am a passionate software developer with a basic knowledge in **web development** and **database management**. I enjoy building **efficient, user-friendly applications** and solving **complex problems through clean, structured code**. My skill set spans multiple technologies, and I am always eager to **learn, adapt, and grow** in the evolving tech landscape.
 
 ---
 
@@ -14,7 +14,6 @@ I am a passionate software developer with a strong foundation in **web developme
 
 ### 💻 Programming Languages
 
-* C
 * Core Java
 * C# *(Basic)*
 
@@ -30,8 +29,8 @@ I am a passionate software developer with a strong foundation in **web developme
 
 ### ⚙️ Tools & Frameworks
 
-* Visual Studio
 * Git
+* Visual Studio
 * VS Code
 
 ---
