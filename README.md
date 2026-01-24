@@ -15,17 +15,17 @@ A motivated **fresher software developer** with basic knowledge of **web develop
 ### 💻 Programming Languages
 
 * Core Java
-* C# *(Basic)*
+ 
 
 ### 🌐 Web Technologies
 
 * HTML5
 * CSS3
-* ASP.NET *(Basic)*
+ 
 
 ### 🗄️ Databases
 
-* MySQL *(Basic)*
+* MySQL
 
 ### ⚙️ Tools & Frameworks
 
