@@ -90,4 +90,3 @@ I'm always open to **new opportunities**, **collaborations**, or meaningful disc
 
 ⭐ *This README represents my professional profile and resume summary. For detailed projects and code samples, please explore my repositories.*
 
-edit the above readme file and more responsive
