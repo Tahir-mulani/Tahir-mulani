@@ -1,91 +1,89 @@
-# Hi, I'm Tahir Mulani 👋
+# 👋 Hi, I'm Tahir Mulani
 
-🚀 **Passionate Software Developer **
-
----
-
-## 👨‍💻 Profile Overview
-
-A motivated **fresher software developer** with basic knowledge of **web development and database management**. Passionate about building efficient, user-friendly applications and eager to **learn new technologies** while growing as a **skilled professional** in the software industry.
+🚀 **Aspiring Software Developer | MCA Student**
 
 ---
 
-## 🛠️ Skills
+## 🌟 About Me
 
-### 💻 Programming Languages
+I’m a **motivated fresher software developer** with a strong foundation in **core programming, web technologies, and databases**. I enjoy building **clean, efficient, and user-friendly applications** and I’m constantly learning to stay updated with modern development practices. My goal is to grow into a **skilled full-stack developer** and contribute to impactful software solutions.
 
-* Core Java
- 
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+
+* **Core Java**
 
 ### 🌐 Web Technologies
 
-* HTML5
-* CSS3
- 
+* **HTML5**
+* **CSS3**
+* Basic **JavaScript**
 
 ### 🗄️ Databases
 
-* MySQL
+* **MySQL**
+* SQL fundamentals
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Tools & IDEs
 
-* Git
-* Visual Studio
-* VS Code
+* **Git & GitHub**
+* **Visual Studio**
+* **VS Code**
 
 ---
 
-## 📌 Recent Projects
+## 📌 Projects
 
 ### 🏛️ Civil Registry System *(Final Year Project)*
 
-A comprehensive **web-based application** designed to manage civil registry records efficiently using the **ASP.NET framework**.
+A **responsive, web-based application** designed to manage and maintain civil registry records efficiently.
 
-#### 🔧 Technologies Used
+#### 🔧 Tech Stack
 
 * **Backend:** C#, ASP.NET
 * **Frontend:** HTML, CSS, JavaScript, Bootstrap
 * **Database:** SQL Server
 
-#### ✨ Key Features
+#### ✨ Features
 
-* User registration and authentication
-* Record management *(Birth, Marriage, Death certificates)*
-* Advanced search and reporting functionality
-* Admin dashboard for complete system control
+* Secure user registration & authentication
+* Management of **Birth, Marriage, and Death** records
+* Advanced search and report generation
+* Admin dashboard with full system control
 
-#### 🌟 Project Highlights
+#### 🌟 Highlights
 
-* Implemented **secure data handling** and validation mechanisms
-* Designed a **responsive and user-friendly interface**
-* Integrated **SQL database** for reliable data storage and retrieval
-* Followed a **modular architecture** for better scalability and maintainability
+* Implemented **secure data validation and handling**
+* Designed a **responsive and intuitive UI**
+* Integrated **SQL Server** for reliable data storage
+* Followed **modular and scalable architecture**
 
 ---
 
 ## 🎓 Education
 
 * **Master of Computer Applications (MCA)** *(Pursuing)*
-  **Bharati Vidyapeeth (Deemed to be University)**
+  Bharati Vidyapeeth (Deemed to be University)
 
-* **Bachelor's Degree in Computer Science**
-  *Focused on software development*
+* **Bachelor’s Degree in Computer Science**
+  Focused on software development fundamentals
 
 ---
 
-## 🎯 Professional Interests
+## 🎯 Interests & Goals
 
 * Full-stack web development
-* Database design and optimization
-* Software architecture
-* Open-source contributions
+* Database design & optimization
+* Software architecture & clean code practices
+* Open-source learning and collaboration
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm always open to **new opportunities**, **collaborations**, or meaningful discussions about technology. Feel free to reach out and connect!
+I’m open to **job opportunities**, **internships**, **collaborations**, and tech discussions. Let’s build something meaningful together!
 
----
-
-⭐ *This README represents my professional profile and resume summary. For detailed projects and code samples, please explore my repositories.*
+⭐ *This README serves as my professional profile. Explore my repositories to see projects, code samples, and continuous learning in action.*
