@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Profile Overview
 
-A motivated **fresher software developer** with basic knowledge of **web development and database management**. Passionate about building efficient, user-friendly applications and eager to **learn new technologies** while growing as a **skilled professional** in the software industry.
+ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**, seeking an opportunity to start my career and enhance my technical skills with strong **willingness to learn new technologies**.
 
 ---
 
