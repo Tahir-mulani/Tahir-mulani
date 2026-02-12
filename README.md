@@ -1,6 +1,6 @@
 # Hi, I'm Tahir Mulani 👋
 
-🚀 **Passionate Software Developer **
+🚀 **Aspiring Software Developer **
 
 ---
 
