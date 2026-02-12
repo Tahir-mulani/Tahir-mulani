@@ -81,7 +81,6 @@ A comprehensive **web-based application** designed to manage civil registry reco
 * Open-source contributions
 
 ---
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahir-07)
 ---
 
