@@ -2,7 +2,26 @@
 
 ## Profile Overview
 
-I am a passionate software developer with a strong foundation in web development and database management. I enjoy building efficient, user-friendly applications and solving complex problems through code. My expertise spans across multiple technologies, and I'm always eager to learn and adapt to new challenges in the tech world.
+Aspiring Software Developer with knowledge of **Java** and **Web Technologies**, seeking an opportunity to start my career and enhance my technical skills with strong **willingness to learn new technologies**.
+
+---
+
+## 📊 Streak & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir-mulani&theme=radical" alt="GitHub Streak" />
+</div>
+
+### 🔥 Activity Glow Card
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); color: white; margin: 20px 0;">
+  <h3>💻 Active Developer</h3>
+  <p><strong>Status:</strong> Learning & Building Projects</p>
+  <p><strong>Current Focus:</strong> Java & Full-Stack Web Development</p>
+  <p><strong>Last Updated:</strong> February 2026</p>
+</div>
+
+---
 
 ## Skills
 
@@ -46,6 +65,32 @@ A comprehensive web-based application for managing civil registry records, built
 - Created responsive user interface
 - Integrated SQL database for efficient data storage and retrieval
 - Developed modular architecture for maintainability
+
+---
+
+### Student Management System
+A console-based Java application designed for performing complete CRUD operations on student data.
+
+**Technologies Used:**
+- **Backend:** Java (Core Java)
+- **Database:** MySQL
+- **Connectivity:** JDBC (Java Database Connectivity)
+- **Tools:** VS Code, Git & GitHub
+
+**Features:**
+- Add Student
+- View All Students
+- Search Student
+- Update Student
+- Delete Student
+- Custom Exception Handling
+
+**Project Highlights:**
+- Console-based interface for easy interaction
+- Complete CRUD operation implementation
+- Custom exception handling for robust error management
+- Ideal for understanding real-world database-driven applications
+- Perfect for Java beginners, JDBC & MySQL practice
 
 ## Education
 
