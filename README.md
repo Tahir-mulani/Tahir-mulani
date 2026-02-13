@@ -9,12 +9,16 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 ### 💻 Programming Languages
 
 * Core Java
+* C
+* C++
+* C#(basics)
  
 
 ### 🌐 Web Technologies
 
 * HTML5
 * CSS3
+* Boostrap5(v5.3.8)
  
 
 ### 🗄️ Databases
@@ -26,6 +30,7 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 * Git
 * Visual Studio
 * VS Code
+* ASP.NET(basics)
 
 ---
 
@@ -71,14 +76,20 @@ A comprehensive **web-based application** designed to manage civil registry reco
 * Open-source contributions
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahir-07)
----
 
-## 📈 Activity (glow card)<p align="center">
+## 🔥 GitHub Streak & Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahir-07&theme=react-dark&area=true" width="800" />
-</p>
+<div align="center">
+  <h3>📊 Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahir-07&theme=react-dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahir-07&theme=react-dark&area=true&radius=10&hide_border=false" alt="Activity Graph" width="95%" />
+</div>
 
 ## 🤝 Let's Connect
 
