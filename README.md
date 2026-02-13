@@ -2,57 +2,44 @@
 
 ## Profile Overview
 
-Aspiring Software Developer with knowledge of **Java** and **Web Technologies**, seeking an opportunity to start my career and enhance my technical skills with strong **willingness to learn new technologies**.
-
----
-
-## 📊 Streak & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir-mulani&theme=radical" alt="GitHub Streak" />
-</div>
-
-### 🔥 Activity Glow Card
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18); color: white; margin: 20px 0;">
-  <h3>💻 Active Developer</h3>
-  <p><strong>Status:</strong> Learning & Building Projects</p>
-  <p><strong>Current Focus:</strong> Java & Full-Stack Web Development</p>
-  <p><strong>Last Updated:</strong> February 2026</p>
-</div>
-
----
+I am a passionate software developer with a strong foundation in web development and database management. I enjoy building efficient, user-friendly applications and solving complex problems through code. My expertise spans across multiple technologies, and I'm always eager to learn and adapt to new challenges in the tech world.
 
 ## Skills
 
-### Programming Languages
-- C#
-- JavaScript
-- Java
+### 💻 Programming Languages
 
-### Web Technologies
-- HTML5
-- CSS3
-- ASP.NET
+* Core Java
+ 
 
-### Databases
-- SQL Server
-- MySQL
+### 🌐 Web Technologies
 
-### Tools & Frameworks
-- Visual Studio
-- Git
-- VS Code
+* HTML5
+* CSS3
+ 
 
-## Recent Projects
+### 🗄️ Databases
 
-### Civil Registry System (Final Year Project)
-A comprehensive web-based application for managing civil registry records, built using ASP.NET framework.
+* MySQL
 
-**Technologies Used:**
-- **Backend:** C#, ASP.NET
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQL Server
+### ⚙️ Tools & Frameworks
+
+* Git
+* Visual Studio
+* VS Code
+
+---
+
+## 📌 Recent Projects
+
+### 🏛️ Civil Registry System *(Final Year Project)*
+
+A comprehensive **web-based application** designed to manage civil registry records efficiently using the **ASP.NET framework**.
+
+#### 🔧 Technologies Used
+
+* **Backend:** C#, ASP.NET
+* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Database:** SQL Server
 
 **Features:**
 - User registration and authentication
@@ -66,48 +53,38 @@ A comprehensive web-based application for managing civil registry records, built
 - Integrated SQL database for efficient data storage and retrieval
 - Developed modular architecture for maintainability
 
----
+## 🎓 Education
 
-### Student Management System
-A console-based Java application designed for performing complete CRUD operations on student data.
+* **Master of Computer Applications (MCA)** *(Pursuing)*
+  **Bharati Vidyapeeth (Deemed to be University)**
 
-**Technologies Used:**
-- **Backend:** Java (Core Java)
-- **Database:** MySQL
-- **Connectivity:** JDBC (Java Database Connectivity)
-- **Tools:** VS Code, Git & GitHub
-
-**Features:**
-- Add Student
-- View All Students
-- Search Student
-- Update Student
-- Delete Student
-- Custom Exception Handling
-
-**Project Highlights:**
-- Console-based interface for easy interaction
-- Complete CRUD operation implementation
-- Custom exception handling for robust error management
-- Ideal for understanding real-world database-driven applications
-- Perfect for Java beginners, JDBC & MySQL practice
-
-## Education
-
-- **Bachelor's Degree in Computer Science/Engineering**
-  - Graduated with focus on software development and system design
-
-## Professional Interests
-
-- Full-stack web development
-- Database design and optimization
-- Software architecture
-- Open-source contributions
-
-## Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology. Feel free to reach out!
+* **Bachelor's Degree in Computer Science**
+  *Focused on software development*
 
 ---
 
-*This README serves as my professional profile and resume summary. For detailed work samples and more information, please check out my repositories.* 
+## 🎯 Professional Interests
+
+* Full-stack web development
+* Database design and optimization
+* Software architecture
+* Open-source contributions
+
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tahir-07)
+---
+
+## 📈 Activity (glow card)<p align="center">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahir-07&theme=react-dark&area=true" width="800" />
+</p>
+
+## 🤝 Let's Connect
+
+I'm always open to **new opportunities**, **collaborations**, or meaningful discussions about technology. Feel free to reach out and connect!
+
+---
+
+⭐ *This README represents my professional profile and resume summary. For detailed projects and code samples, please explore my repositories.*
+
