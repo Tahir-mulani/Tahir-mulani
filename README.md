@@ -2,7 +2,7 @@
 
 ## Profile Overview
 
-I am a passionate software developer with a strong foundation in web development and database management. I enjoy building efficient, user-friendly applications and solving complex problems through code. My expertise spans across multiple technologies, and I'm always eager to learn and adapt to new challenges in the tech world.
+Aspiring Software Developer with knowledge of **Java** and **Web Technologies**, seeking an opportunity to start my career and enhance my technical skills with strong **willingness to learn new technologies**.
 
 ## Skills
 
