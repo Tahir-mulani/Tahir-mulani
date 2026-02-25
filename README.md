@@ -28,7 +28,6 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 ### ⚙️ Tools & Frameworks
 
 * Git
-* Visual Studio
 * VS Code
 * ASP.NET(basics)
 
