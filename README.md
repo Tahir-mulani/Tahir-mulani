@@ -76,20 +76,6 @@ A comprehensive **web-based application** designed to manage civil registry reco
 
 ---
 
-## 🔥 GitHub Streak & Activity
-
-<h3>📊 Contribution Streak</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahir-07&theme=react-dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="90%" />
-</div>
-
-<br/>
-
-<h3>📈 Activity Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahir-07&theme=react-dark&area=true&radius=10&hide_border=false" alt="Activity Graph" width="95%" />
-</div>
-
 ## 🤝 Let's Connect
 
 I'm always open to **new opportunities**, **collaborations**, or meaningful discussions about technology. Feel free to reach out and connect!
