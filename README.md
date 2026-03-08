@@ -47,7 +47,7 @@ A comprehensive **web-based application** designed to manage civil registry reco
 
 **Features:**
 - User registration and authentication
-- Record management (birth, marriage, death certificates)
+- Record management (birth, marriage, death certificates , Aadhaar Card, Pan Card, Voter ID Card)
 - Search and reporting functionality
 - Admin dashboard for system management
 
@@ -76,6 +76,10 @@ A comprehensive **web-based application** designed to manage civil registry reco
 
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> de2526d55795638d6a5906fcb6c75ff0b2754872
 ## 🤝 Let's Connect
 
 I'm always open to **new opportunities**, **collaborations**, or meaningful discussions about technology. Feel free to reach out and connect!
