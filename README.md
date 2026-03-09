@@ -19,17 +19,19 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 * HTML5
 * CSS3
 * Boostrap5(v5.3.8)
+* Javascript
  
 
 ### 🗄️ Databases
 
-* MySQL
+* SQL/PLSQL
 
 ### ⚙️ Tools & Frameworks
 
-* Git
+* Git/GitHub
 * VS Code
 * ASP.NET(basics)
+* Eclipse
 
 ---
 
