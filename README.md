@@ -9,7 +9,6 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 ### 💻 Languages
 
 * Core Java
-* Javascript
 * SQL/PLSQL
  
 
@@ -18,6 +17,7 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 * HTML5
 * CSS3
 * Boostrap5(v5.3.8)
+* JavaScript
  
 
 ### 🗄️ Database
