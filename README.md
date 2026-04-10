@@ -6,11 +6,11 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 
 ## Skills
 
-### 💻 Programming Languages
+### 💻 Languages
 
 * Core Java
 * Javascript
-* C#(basics)
+* SQL/PLSQL
  
 
 ### 🌐 Web Technologies
@@ -22,20 +22,19 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 
 ### 🗄️ Database
 
-* MYSQL/PLSQL
+* MYSQL
 
 ### ⚙️ Tools & Frameworks
 
 * Git/GitHub
 * VS Code
-* ASP.NET(basics)
 * Eclipse
 
 ---
 
 ## 📌 Recent Projects
 
-### 🏛️ Civil Registry System *(Final Year Project)*
+### 🏛️ Civil Registry System *(Final Year Project March 2025)*
 
 A comprehensive **web-based application** designed to manage civil registry records efficiently using the **ASP.NET framework**.
 
