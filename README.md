@@ -9,8 +9,7 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 ### 💻 Programming Languages
 
 * Core Java
-* C
-* C++
+* Javascript
 * C#(basics)
  
 
@@ -19,12 +18,11 @@ Aspiring Software Developer with knowledge of **Java** and **Web Technologies**,
 * HTML5
 * CSS3
 * Boostrap5(v5.3.8)
-* Javascript
  
 
-### 🗄️ Databases
+### 🗄️ Database
 
-* SQL/PLSQL
+* MYSQL/PLSQL
 
 ### ⚙️ Tools & Frameworks
 
@@ -44,7 +42,7 @@ A comprehensive **web-based application** designed to manage civil registry reco
 #### 🔧 Technologies Used
 
 * **Backend:** C#, ASP.NET
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Frontend:** HTML, CSS, JavaScript
 * **Database:** SQL Server
 
 **Features:**
@@ -73,8 +71,6 @@ A comprehensive **web-based application** designed to manage civil registry reco
 
 * Full-stack web development
 * Database design and optimization
-* Software architecture
-* Open-source contributions
 
 ---
 ## 🤝 Let's Connect
