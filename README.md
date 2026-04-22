@@ -21,7 +21,7 @@ A Computer Science graduated and eager to gain practical experience <br>and impr
 
 **Technologies:** C#, ASP.NET, SQL Server, HTML, CSS, Bootstrap, JavaScript, Git, GitHub.
 
-## �📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahir-mulani&show_icons=true&theme=dark)](https://github.com/Tahir-mulani)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahir-mulani&theme=dark)](https://github.com/Tahir-mulani)
 
