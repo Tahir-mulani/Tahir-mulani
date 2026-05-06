@@ -19,7 +19,7 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 ## 📁 Projects
 
 ### 1️⃣ Civil Registry System | Final Year Project  
-**[GitHub](https://github.com/Tahir-mulani)** | May 2026
+**[GitHub](https://github.com/Tahir-mulani)** | March 2025
 
 Developed ASP.NET web application to manage civil certificates (Birth, Marriage, Death, Aadhar Card, PAN Card, VoterId Card).
 
@@ -33,7 +33,7 @@ Developed ASP.NET web application to manage civil certificates (Birth, Marriage,
 ---
 
 ### 2️⃣ 3-Tier MVC Architecture Project
-**[GitHub](https://github.com/Tahir-mulani/MVC_CRUD_application)** | Java Web Development
+**[GitHub](https://github.com/Tahir-mulani/MVC_CRUD_application)** | Java Web Development | May 2026
 
 Developed a Java Servlet-based MVC web application to manage Departments and Employees with full CRUD operations.
 
