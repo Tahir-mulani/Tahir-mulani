@@ -59,7 +59,9 @@ Developed a Java Servlet-based MVC web application to manage Departments and Emp
 
 ## Web & Backend
 ![Servlet](https://img.shields.io/badge/Servlet-%23F8DC75.svg?style=plastic&logo=java&logoColor=black)
-![JSP](https://img.shields.io/badge/JSP-%23F8DC75.svg?style=plastic&logo=java&logoColor=black)
+![Spring Core](https://img.shields.io/badge/Spring%20Core-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
