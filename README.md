@@ -18,8 +18,8 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 
 ## 📁 Projects
 
-### Civil Registry System
-GitHub: [https://github.com/Tahir-mulani/Civil-Registry](https://github.com/Tahir-mulani/Civil-Registry)
+### 🏛️ Civil Registry System
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/Tahir-mulani/Civil-Registry)
 
 - Developed a web application for managing Birth, Marriage, Death, Aadhaar, PAN and Voter ID certificates.
 - Implemented user registration, authentication, and admin approval/rejection workflow.
@@ -28,8 +28,8 @@ GitHub: [https://github.com/Tahir-mulani/Civil-Registry](https://github.com/Tahi
 
 ---
 
-### Smart Career Recommendation System
-GitHub: [https://github.com/prathameshvhare/SpringBootProject](https://github.com/prathameshvhare/SpringBootProject)
+### 🎯 Smart Career Recommendation System
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/prathameshvhare/SpringBootProject)
 
 - Built a Spring Boot application that recommends suitable career paths based on student profiles.
 - Implemented MVC architecture with authentication and authorization.
@@ -38,8 +38,8 @@ GitHub: [https://github.com/prathameshvhare/SpringBootProject](https://github.co
 
 ---
 
-### TestSync | Online Examination System
-GitHub: [https://github.com/Tahir-mulani/TestSync](https://github.com/Tahir-mulani/TestSync)
+### 🧪 TestSync | Online Examination System
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/Tahir-mulani/TestSync)
 
 - Developed a role-based online examination system with separate Admin and Student modules.
 - Implemented authentication, CRUD operations, session management, and automated exam evaluation.
@@ -47,8 +47,6 @@ GitHub: [https://github.com/Tahir-mulani/TestSync](https://github.com/Tahir-mula
 - **Tech Stack:** Java, Servlet, JDBC, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Git, GitHub.
 
 ---
-
-
 
 # 💻 Tech Stack
 
