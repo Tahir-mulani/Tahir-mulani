@@ -18,34 +18,37 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 
 ## 📁 Projects
 
-### 1️⃣ Civil Registry System | Final Year Project  
-**[GitHub](https://github.com/Tahir-mulani)** | March 2025
+### Civil Registry System
+GitHub: [https://github.com/Tahir-mulani/Civil-Registry](https://github.com/Tahir-mulani/Civil-Registry)
 
-Developed ASP.NET web application to manage civil certificates (Birth, Marriage, Death, Aadhar Card, PAN Card, VoterId Card).
-
-**Key Features:**
-- User authentication and admin approval/rejection workflow
-- Responsive UI using HTML, CSS, Bootstrap, and JavaScript
-- SQL Server database for secure data storage and retrieval
-
-**Tech Stack:** `C#` `ASP.NET` `SQL Server` `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub`
+- Developed a web application for managing Birth, Marriage, Death, Aadhaar, PAN and Voter ID certificates.
+- Implemented user registration, authentication, and admin approval/rejection workflow.
+- Built responsive UI and integrated SQL Server for secure data management.
+- **Tech Stack:** ASP.NET, C#, SQL Server, HTML, CSS, Bootstrap, JavaScript, Git, GitHub.
 
 ---
 
-### 2️⃣ 3-Tier MVC Architecture Project
-**[GitHub](https://github.com/Tahir-mulani/MVC_CRUD_application)** | Java Web Development | May 2026
+### Smart Career Recommendation System
+GitHub: [https://github.com/prathameshvhare/SpringBootProject](https://github.com/prathameshvhare/SpringBootProject)
 
-Developed a Java Servlet-based MVC web application to manage Departments and Employees with full CRUD operations.
-
-**Key Features:**
-- Layered architecture (Controller, Service, Repository) for better code organization and maintainability
-- MySQL database for data storage and real-time operations
-- Responsive user interface using Bootstrap with basic admin authentication
-- Complete separation of concerns following enterprise patterns
-
-**Tech Stack:** `Java` `Servlet` `JSP` `MySQL` `Bootstrap` `Maven` `Git`
+- Built a Spring Boot application that recommends suitable career paths based on student profiles.
+- Implemented MVC architecture with authentication and authorization.
+- Integrated JDBC with MySQL and designed responsive JSP-based user interface.
+- **Tech Stack:** Java, Spring Boot, JDBC, MySQL, JSP, HTML, CSS, Bootstrap, JavaScript, Git, GitHub.
 
 ---
+
+### TestSync | Online Examination System
+GitHub: [https://github.com/Tahir-mulani/TestSync](https://github.com/Tahir-mulani/TestSync)
+
+- Developed a role-based online examination system with separate Admin and Student modules.
+- Implemented authentication, CRUD operations, session management, and automated exam evaluation.
+- Enhanced user experience using Bootstrap, AJAX, Maven, and Git version control.
+- **Tech Stack:** Java, Servlet, JDBC, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Git, GitHub.
+
+---
+
+
 
 # 💻 Tech Stack
 
@@ -59,9 +62,8 @@ Developed a Java Servlet-based MVC web application to manage Departments and Emp
 
 ## Web & Backend
 ![Servlet](https://img.shields.io/badge/Servlet-%23F8DC75.svg?style=plastic&logo=java&logoColor=black)
-![Spring Core](https://img.shields.io/badge/Spring%20Core-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23F1C40F.svg?style=plastic&logo=java&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -79,6 +81,7 @@ Developed a Java Servlet-based MVC web application to manage Departments and Emp
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ## Deployment
+![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=plastic&logo=hostinger&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
 ---
