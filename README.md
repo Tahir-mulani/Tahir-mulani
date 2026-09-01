@@ -12,6 +12,7 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tahir%20Mulani) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Tahir_Mulani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://tahir-mulani-ten.vercel.app/)
 [![Naukri](https://img.shields.io/badge/Naukri-%2300A5E0.svg?logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?tab=Activity)
 [![Indeed](https://img.shields.io/badge/Indeed-%2300A4EF.svg?logo=indeed&logoColor=white)](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahirmulani7447@gmail.com)
