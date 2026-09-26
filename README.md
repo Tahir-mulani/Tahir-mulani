@@ -22,7 +22,7 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 ## 📁 Projects
 
 ### 🎯 Smart Career Recommendation System
-[![LIVE](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](http://smartcareertech.co.in/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?logo=googlechrome&logoColor=white)](http://smartcareertech.co.in/)
 
 - Built a Spring Boot application that recommends suitable career paths based on student profiles.
 - Implemented MVC architecture with authentication and authorization.
