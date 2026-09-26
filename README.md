@@ -21,18 +21,8 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 
 ## 📁 Projects
 
-### 🏛️ Civil Registry System
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/Tahir-mulani/Civil-Registry)
-
-- Developed a web application for managing Birth, Marriage, Death, Aadhaar, PAN and Voter ID certificates.
-- Implemented user registration, authentication, and admin approval/rejection workflow.
-- Built responsive UI and integrated SQL Server for secure data management.
-- **Tech Stack:** ASP.NET, C#, SQL Server, HTML, CSS, Bootstrap, JavaScript, Git, GitHub.
-
----
-
 ### 🎯 Smart Career Recommendation System
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/prathameshvhare/SpringBootProject)
+[![LIVE](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](http://smartcareertech.co.in/)
 
 - Built a Spring Boot application that recommends suitable career paths based on student profiles.
 - Implemented MVC architecture with authentication and authorization.
@@ -48,6 +38,15 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 - Implemented authentication, CRUD operations, session management, and automated exam evaluation.
 - Enhanced user experience using Bootstrap, AJAX, Maven, and Git version control.
 - **Tech Stack:** Java, Servlet, JDBC, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Git, GitHub.
+
+---
+### 🏛️ Civil Registry System
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/Tahir-mulani/Civil-Registry)
+
+- Developed a web application for managing Birth, Marriage, Death, Aadhaar, PAN and Voter ID certificates.
+- Implemented user registration, authentication, and admin approval/rejection workflow.
+- Built responsive UI and integrated SQL Server for secure data management.
+- **Tech Stack:** ASP.NET, C#, SQL Server, HTML, CSS, Bootstrap, JavaScript, Git, GitHub.
 
 ---
 
