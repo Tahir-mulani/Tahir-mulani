@@ -63,7 +63,6 @@ A Computer Science graduate eager to gain practical experience and improve my ab
 ## Web & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-%23F8DC75.svg?style=plastic&logo=java&logoColor=black)
-
 ![JDBC](https://img.shields.io/badge/JDBC-%23F1C40F.svg?style=plastic&logo=java&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
